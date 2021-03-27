@@ -8,5 +8,5 @@ This app includes =>
 
 For start application =>
 
-$ peerjs --port 3001
+$ peerjs --port 5001
 $ npm start
