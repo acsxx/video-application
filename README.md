@@ -1,4 +1,4 @@
-# Live video-chat application for learing webRTC technologies.
+# Live video-chat application for learning webRTC technologies.
 
 This app includes =>
 
